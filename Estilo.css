@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(48, 39, 39);
+}
+section {
+    background-color: rgb(50, 50, 51);
+    color: white;
+    margin: 5px;
+}
+
+section h3 {
+    color: rgb(255, 55, 55);
+}
+.contenedor-principal {
+    width: 100%;
+    height: 30%;
+    padding: auto;
+    background-color: rgb(50, 50, 51); 
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+}
+
+.image-profile img {
+    padding: 20px;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    display: flex;
+}
+
+.colorRed {
+    color: rgb(255, 55, 55);
+}
+
+.informacionPersonal {
+     text-align: left;
+     padding-left: 1px;
+}
+
+.infoContacto{
+    padding-right: 20px;
+    text-align: right;
+}
+
+.aboutMe {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.profile-description {
+    text-align: center;
+}
+
+.educacion {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.licBiol {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.promAmb {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contenedor-secundario {
+  width: 100%;
+  height: 290px;
+  padding: auto;
+  display: flex;
+  margin-top: 5px;
+}
+
+.habilidades{
+  width: 50%;
+  text-align: center;
+}
+
+.skills{
+    text-align: left;
+}
+
+.experiencia{
+    margin-top: 0px;
+    width: 50%;
+    text-align: center;
+}
+.contenedor-tres{
+  width: 100%;
+  height: 400px;
+  padding: auto;
+  display: flex;
+}
+
+.referencias {
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+}
+
+.intereses {
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+}
+
+.intereses img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding-inline: 5px;
+}
+.contenedor-cuatro{
+   width: 100%;
+   height: 150px;
+   padding: auto;
+   display: flex;
+}
+
